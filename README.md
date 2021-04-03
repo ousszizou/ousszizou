@@ -15,9 +15,6 @@
   - discord => Oussama#7173
   - telegram,whatsapp => +213666358389
 
-<img align="right" alt="GIF" src="https://github.com/ousszizou/ousszizou/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-
 **Languages and Tools:**  
 
 <img src="https://img.shields.io/badge/golang-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
