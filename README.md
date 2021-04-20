@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 I’m a Full Stack Javascript Developer from Algeria.
+- 🔭 I’m a Javascript/Golang Developer from Algeria.
 - 📹 Creator of [Algorithm Academy Channel](https://www.youtube.com/c/algorithmCoding).
 - 🌱 I’m currently learning Golang & TypeScript.
 - 👨🏽‍💻 I’m currently working on something cool (My Elearning Platform) :wink:.
