@@ -4,16 +4,14 @@
 
 - 🔭 I’m a Javascript/Golang Developer from Algeria.
 - 📹 Creator of [Algorithm Academy Channel](https://www.youtube.com/c/algorithmCoding).
-- 🌱 I’m currently learning Golang & TypeScript.
+- 🌱 I’m currently learning Golang.
 - 👨🏽‍💻 I’m currently working on something cool (My Elearning Platform) :wink:.
 - 👯 I’m open to collaborate on any offer/project.
 - 📫 How to reach me:
   - [My Portfolio](https://xenodochial-yonath-b7c6a8.netlify.app/)
   - [twitter](https://twitter.com/Djaidri_oussama)
   - [linkedin](https://www.linkedin.com/in/oussama-djaidri-ab2143149)
-  - [facebook](https://www.facebook.com/algorithm19/)
   - discord => Oussama#7173
-  - telegram,whatsapp => +213666358389
 
 **Languages and Tools:**  
 
@@ -22,12 +20,6 @@
 </a>
 <a href="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
-<a href="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </a>
 <a href="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,9 +38,6 @@
 </a>
 <a href="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-</a>
-<a href="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
 <a href="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white">
   <img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
