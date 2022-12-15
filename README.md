@@ -13,7 +13,7 @@
   <div>🔭 I’m a JS/TS Developer from Algeria</div>
   <div>📹 Creator of <a href="https://www.youtube.com/c/algorithmCoding">Algorithm Academy Channel</a></div>
   <div>🌱 I’m currently learning Golang</div>
-  <div>👨🏽‍💻 I’m currently working on something cool (My Elearning Platform & Vupa UI) :wink:</div>
+  <div>👨🏽‍💻 I’m currently working on cool things (My Elearning Platform & UI Component Library for React.js/Vue.js) :wink:</div>
 </div>
 
 <h4 align="center">I speak</h4>
