@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Oussama Djaidri.</h3>
 
 <p align="center">
-  <a href="https://www.ouss-dj.com">Website</a> •
+  <a href="https://my-next-portfolio-sigma.vercel.app">Website</a> •
   <a href="#">Blog (SOON)</a> •
   <a href="https://twitter.com/Djaidri_oussama">Twitter</a> •
   <a href="https://www.linkedin.com/in/oussama-djaidri-ab2143149">linkedin</a>
