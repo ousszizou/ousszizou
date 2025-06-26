@@ -1,9 +1,7 @@
 <h3 align="center">👋 Hi, I'm Oussama Djaidri.</h3>
 
 <p align="center">
-  <a href="https://my-next-portfolio-sigma.vercel.app">Website</a> •
-  <a href="#">Blog (SOON)</a> •
-  <a href="https://twitter.com/Djaidri_oussama">Twitter</a> •
+  <a href="https://www.odjaidri.com">Portfolio Website</a> •
   <a href="https://www.linkedin.com/in/oussama-djaidri-ab2143149">linkedin</a>
 </p>
 
@@ -13,7 +11,6 @@
   <div>🔭 I’m a JS/TS Developer from Algeria</div>
   <div>📹 Creator of <a href="https://www.youtube.com/c/algorithmCoding">Algorithm Academy Channel</a></div>
   <div>🌱 I’m currently learning Golang</div>
-  <div>👨🏽‍💻 I’m currently working on my side project (E-learning Platform) :wink:</div>
   <div>📝 I regularly write articles on <a target="_blank" href="https://eqraatech.com/author/algorithm19">Eqraatech</a></div>
 </div>
 
