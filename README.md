@@ -14,6 +14,7 @@
   <div>📹 Creator of <a href="https://www.youtube.com/c/algorithmCoding">Algorithm Academy Channel</a></div>
   <div>🌱 I’m currently learning Golang</div>
   <div>👨🏽‍💻 I’m currently working on my side project (E-learning Platform) :wink:</div>
+  <div>📝 I regularly write articles on <a target="_blank" href="https://eqraatech.com/author/algorithm19">linkedin</a></div>
 </div>
 
 <h4 align="center">I speak</h4>
